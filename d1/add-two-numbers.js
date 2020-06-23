@@ -59,6 +59,12 @@ var addTwoNumbers = function (l1, l2) {
   // convert the answer into a LL
   let prevNode = null;
   let nextNode = null;
+
+  // answer -> 807
+  // "807".split()
+  // ["8", "0", "7"]
+  // 7 -> 0 -> 8 LL
+  // return the 7 node
 };
 
 function ListNode(val, next) {
